@@ -1,0 +1,46 @@
+2024-10-25 12:30:43,459 - __main__ - INFO - Received image processing request
+2024-10-25 12:30:43,461 - __main__ - ERROR - No image uploaded!
+2024-10-26 11:38:27,234 - __main__ - INFO - Received image processing request
+2024-10-26 11:38:27,237 - __main__ - ERROR - No image uploaded!
+2024-10-26 11:45:42,774 - __main__ - INFO - Received image processing request
+2024-10-26 11:45:42,783 - __main__ - ERROR - No image uploaded!
+2024-10-26 11:48:06,076 - __main__ - INFO - Received image processing request
+2024-10-26 11:48:06,078 - __main__ - ERROR - No image uploaded!
+2024-10-26 12:01:37,310 - __main__ - INFO - Received image processing request
+2024-10-26 12:01:37,450 - __main__ - INFO - Preprocessed image
+2024-10-26 12:01:38,463 - __main__ - INFO - Generated image with GAN model
+2024-10-26 12:01:38,471 - __main__ - INFO - Processed image sent back to client
+2024-10-26 12:03:08,248 - __main__ - INFO - Received image processing request
+2024-10-26 12:03:08,257 - __main__ - INFO - Preprocessed image
+2024-10-26 12:03:08,602 - __main__ - INFO - Generated image with GAN model
+2024-10-26 12:03:08,604 - __main__ - INFO - Processed image sent back to client
+2024-10-26 12:09:21,542 - __main__ - INFO - Received image processing request
+2024-10-26 12:09:21,593 - __main__ - INFO - Preprocessed image
+2024-10-26 12:09:22,344 - __main__ - INFO - Generated image with GAN model
+2024-10-26 12:09:22,347 - __main__ - INFO - Processed image sent back to client
+2024-10-26 12:13:20,250 - __main__ - INFO - Received image processing request
+2024-10-26 12:13:20,300 - __main__ - INFO - Preprocessed image
+2024-10-26 12:13:21,069 - __main__ - INFO - Generated image with GAN model
+2024-10-26 12:13:21,072 - __main__ - INFO - Processed image sent back to client
+2024-10-26 12:36:07,357 - __main__ - INFO - Received image processing request
+2024-10-26 12:36:07,359 - __main__ - ERROR - No image uploaded!
+2024-10-26 12:38:41,270 - __main__ - INFO - Received image processing request
+2024-10-26 12:38:41,272 - __main__ - ERROR - No image uploaded!
+2024-10-26 12:39:50,127 - __main__ - INFO - Received image processing request
+2024-10-26 12:39:50,129 - __main__ - ERROR - No image uploaded!
+2024-10-26 12:42:16,508 - __main__ - INFO - Received image processing request
+2024-10-26 12:42:16,509 - __main__ - ERROR - No image uploaded!
+2024-10-26 12:43:27,773 - __main__ - INFO - Received image processing request
+2024-10-26 12:43:27,775 - __main__ - ERROR - No image uploaded!
+2024-10-26 12:55:32,850 - __main__ - INFO - Received image processing request
+2024-10-26 12:55:32,852 - __main__ - ERROR - No image uploaded!
+2024-10-26 20:36:47,552 - __main__ - INFO - Received image processing request
+2024-10-26 20:36:47,556 - __main__ - ERROR - No image uploaded!
+2024-10-27 14:34:15,212 - __main__ - INFO - Received image processing request
+2024-10-27 14:34:15,223 - __main__ - ERROR - No image uploaded!
+2024-10-27 14:34:23,299 - __main__ - INFO - Received image processing request
+2024-10-27 14:34:23,301 - __main__ - ERROR - No image uploaded!
+2024-10-27 14:47:58,556 - __main__ - INFO - Received image processing request
+2024-10-27 14:47:58,558 - __main__ - ERROR - No image uploaded!
+2024-10-27 14:52:28,970 - __main__ - INFO - Received image processing request
+2024-10-27 14:52:28,973 - __main__ - ERROR - No image uploaded!
